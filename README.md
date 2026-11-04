@@ -1,4 +1,4 @@
-<a href="https://github.com/makindajack/djangogirls">
+<a href="https://github.com/chaliiwaui/djangogirls">
   <div align="center">
     <picture>
       <source height="150px" media="(prefers-color-scheme: dark)" srcset="./blog/templates/blog/logo/brand-main.svg">
