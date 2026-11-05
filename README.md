@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h1 align="center">Django Girls Zanzibar — Blog</h1>
+<h1 align="center">Django Girls Zanzibar - Blog</h1>
 
 <p align="center">
   Jumuiya inayofundisha wanawake jinsi ya kutengeneza programu kwa Django.<br>
@@ -54,7 +54,7 @@ Jumuiya hii ina lengo la kuvunja vizuizi vya kijinsia katika teknolojia na kuund
 
 This is the blog application from the [Django Girls tutorial](https://tutorial.djangogirls.org/), with Django Girls branding:
 
-- **Post list** (`/`) — published posts ordered by publish date
+- **Post list** (`/`) - published posts ordered by publish date
 - **Post detail** (`/post/<pk>/`)
 - **Create** (`/post/new/`) and **edit** (`/post/<pk>/edit/`) posts through a `PostForm` (`ModelForm`)
 - `Post` model with author (`AUTH_USER_MODEL`), title, text, created and published dates and a `publish()` helper
